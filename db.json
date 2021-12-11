@@ -106,5 +106,15 @@
       "location": "SMA Negeri 1 Tanjungpandan",
       "description": "Science Program. Join in OSIS (Organisasi Siswa Intra Sekolah) as Technology, Information and Communication as Staff at August 2011 - July 2012 also as Leader at August 2012 - July 2013."
     }
+  ],
+  "announcements": [
+    {
+      "main": "I temporarily deactivate my Facebook account. Please contact me through other social media accounts.",
+      "level": "info"
+    },
+    {
+      "main": "Thank you for visiting my website.",
+      "level": "info"
+    }
   ]
 }
