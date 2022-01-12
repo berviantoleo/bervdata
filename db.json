@@ -1,13 +1,6 @@
 {
   "blogs": [
     {
-      "id": 1,
-      "title": "Berbagi Ilmu Teknologi",
-      "description": "Blog about some great technology, posted as mix language (Bahasa Indonesia and English).",
-      "link": "https://blog.berviantoleo.my.id/",
-      "icon": "blogger"
-    },
-    {
       "id": 2,
       "title": "Medium",
       "description": "Bervianto Leo Pratama's Medium",
