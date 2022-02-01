@@ -183,13 +183,5 @@
       "icon": "soundcloud",
       "address": "https://soundcloud.com/bervianto-leo-pratama"
     }
-  ],
-  "researchList": [
-    {
-      "id": 1,
-      "title": "Pembangunan Web Service Audio Watermarking",
-      "abstract": "https://digilib.itb.ac.id/index.php/gdl/view/26088",
-      "paper": "https://informatika.stei.itb.ac.id/~rinaldi.munir/TA/Makalah_TA_Bervianto.pdf"
-    }
   ]
 }
