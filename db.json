@@ -182,6 +182,18 @@
       "title": "Soundcloud",
       "icon": "soundcloud",
       "address": "https://soundcloud.com/bervianto-leo-pratama"
+    },
+    {
+      "id": 14,
+      "title": "Hackerrank",
+      "icon": "hackerrank",
+      "address": "https://www.hackerrank.com/berviantoleo"
+    },
+    {
+      "id": 15,
+      "title": "Twitch",
+      "icon": "twitch",
+      "address": "https://www.twitch.tv/berviantoleo"
     }
   ]
 }
